@@ -1,4 +1,4 @@
 @echo off
-echo Installing Backend Dependencies...
-pip install -r requirements.txt
+echo Installing Frontend...
+npm install
 pause
